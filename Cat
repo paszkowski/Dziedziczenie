@@ -1,0 +1,10 @@
+package animal;
+//Klasa dziedziczy po Animal
+
+
+public class Cat extends Animal{
+
+		void dajGlos() {
+			System.out.println("Mial Mial");
+		}
+}
