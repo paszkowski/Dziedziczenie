@@ -1,0 +1,10 @@
+package animal;
+//klasa dziedziczy po Animal
+
+
+public class Burd extends Animal {
+
+	void dajGlos() {
+		System.out.println("Chirp Chirp");
+	}
+}
